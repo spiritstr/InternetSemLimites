@@ -3,6 +3,7 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 
 ## Ceará
 - Multiplay Telecom ([Site](http://www.multiplaytelecom.com.br/) - [Fonte](https://archive.is/aLHyp))
+- - Mob Telecom ([Site](http://mobtelecom.com.br/) - [Fonte](http://archive.is/6sBrP))
 
 ## Goiás
 - Telgo Telecom ([Site](http://telgo.com.br/) - [Fonte](https://archive.is/2Hm37))
